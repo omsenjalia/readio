@@ -21,7 +21,7 @@ idna==3.19
 mammoth==1.12.2
 multidict==6.8.0
 packaging==26.3
-pillow==12.3.0
+pillow==13.0.0
 postgrest==2.31.0
 propcache==0.5.2
 pycparser==3.0
